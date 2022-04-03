@@ -2,7 +2,7 @@
 
 Tech stack
 
-> Hardhat
-> TypeScipt
-> openzeppelin/contracts
-> Solidity
+- Hardhat
+- TypeScipt
+- openzeppelin/contracts
+- Solidity
