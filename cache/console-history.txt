@@ -1,0 +1,12 @@
+.exit
+await token.mint('0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266');
+await token.mint(accounts[0]);
+ const accounts = await hre.ethers.getSigners();
+const accounts = await hre.ethers.getSigners();
+token
+token = await MinimalERC721.deployed()
+let token = await MinimalERC721.deploy()
+let token = await MinimalERC721.deployed()
+const MinimalERC721 = await ethers.getContractFactory("MinimalERC721");
+let token = await MinimalERC721.deployed()
+.exit
